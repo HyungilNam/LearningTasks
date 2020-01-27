@@ -1,5 +1,4 @@
-#fashin_mnist dataset 불러오i기
-#김태영님 블로그
+#fashin_mnist dataset 불러오기
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
